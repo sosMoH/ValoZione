@@ -234,6 +234,7 @@ body{
     width: 300px;
     height: 300px;
     border-radius: 60px 60px 40px 40px;
+    transition: transform 0.8s ease-in-out;
 }
 .mapCard img{
     width: 300px;
@@ -247,7 +248,6 @@ body{
 }
 .mapCard:hover{
     transform: scale(1.05);
-    transition: 0.8s;
 }
 
 .footer{
@@ -301,6 +301,7 @@ body{
     background-color: #1B242B;
 
 }
+
 
 
 
