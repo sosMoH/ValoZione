@@ -142,10 +142,10 @@ body{
 }
 .card-info img{
     width: 70px;
+    transition: transform 0.6s ease-in-out;
 }
 .card-info img:hover{
-    transform: scale(1.5);
-    transition: 0.6s;
+    transform: scale(1.2);
 }
 
 .top-agents-container{
@@ -301,5 +301,6 @@ body{
     background-color: #1B242B;
 
 }
+
 
 
