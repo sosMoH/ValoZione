@@ -204,7 +204,7 @@ body{
 }
 
 .maps-container{
-    background-color: #EEEEEE;
+    /*background-color: #EEEEEE;*/
     margin-top: 100px;
     padding: 70px 150px 200px 150px;
     border-radius: 150px;
@@ -295,4 +295,5 @@ body{
 .form-container button:hover{
     border-radius: 50px;
     background-color: #1B242B;
+
 }
