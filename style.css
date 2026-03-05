@@ -143,6 +143,10 @@ body{
 .card-info img{
     width: 70px;
 }
+.card-info img:hover{
+    transform: scale(1.05);
+    transition: 0.8s;
+}
 
 .top-agents-container{
     background-color: #EEEEEE;
@@ -297,3 +301,4 @@ body{
     background-color: #1B242B;
 
 }
+
